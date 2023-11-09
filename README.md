@@ -1,1 +1,1 @@
-# python-find-the-first-repeated-character
+### This program is the solution for finding the first duplicate characters in a string.
